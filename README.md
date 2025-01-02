@@ -17,4 +17,6 @@ Before running this script, you use the following functions in Cubase on all not
 Run this python script in the same folder as the new midi files.
 Edit in Kooapps Editor
 
+More info found here:
 
+[gregkurka.com/programming](https://gregkurka.com/programming/)
