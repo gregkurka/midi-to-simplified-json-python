@@ -12,9 +12,9 @@ Before running this script, you use the following functions in Cubase on all not
 4. Run legato function on each voice
 5. Run "Delete doubles"
 6. Run "Delete overlaps (poly)
-7. Export new midi file
+7. Export tracks into separate midi files
 
-Run this python script on the new midi file.
+Run this python script in the same folder as the new midi files.
 Edit in Kooapps Editor
 
 
