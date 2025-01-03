@@ -4,6 +4,7 @@ a midi to simplified JSON script I made while working with Kooapps on their game
 It is important to note that the only data that matters in their game is length, and note name. Notes cannot overlap, unless they start and stop at the same time. Therefore, we run some functions in cubase to help us simplify the midi file.
 
 # requirements
+This script uses mido, a very useful midi library.
 Before running this script, you use the following functions in Cubase on all notes in the midi file:
 
 1. Simplify tracks down to as few tracks as makes sense.
